@@ -8,7 +8,7 @@ public class RetanguloTeste {
     @Test
     public void testArea() {
         Retangulo retangulo = new Retangulo(5, 10);
-        assertEquals(50, retangulo.area());
+        assertEquals(40, retangulo.area());
     }
 
     @Test
