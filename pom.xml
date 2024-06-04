@@ -44,7 +44,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <includes>
-                        <include>**/*RetanguloTeste.java</include>
+                        <include>**/*Teste.java</include>
                     </includes>
                 </configuration>
             </plugin>
